@@ -1,4 +1,4 @@
-# Queue
+# 队列数据结构
 Queue template used FreeRTOS namespace.
 
 please use "define" to avoid the most problem.
